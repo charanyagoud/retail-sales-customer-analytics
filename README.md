@@ -236,3 +236,5 @@ python python/run_sql_analysis.py
 Charanya Ananthula  
 Computer Science Major | Data Science Minor  
 Kutztown University of Pennsylvania
+
+> **Note:** Large raw/cleaned dataset files and the generated SQLite database are not stored in this repository because of GitHub file-size limits. They can be reproduced by running the included Python scripts.
