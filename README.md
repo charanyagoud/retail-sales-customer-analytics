@@ -180,19 +180,15 @@ RetailSalesAnalytics/
 |
 |-- data/
 |   |-- raw/
-|   |   `-- online_retail.csv
+|   |   `-- online_retail.csv (generated locally, not committed)
 |   |
 |   |-- cleaned/
-|   |   `-- online_retail_cleaned.csv
+|   |   `-- online_retail_cleaned.csv (generated locally, not committed)
 |   |
 |   |-- analysis/
-|   |   |-- monthly_sales_summary.csv
-|   |   |-- product_summary.csv
-|   |   |-- country_summary.csv
-|   |   |-- customer_summary.csv
-|   |   `-- day_of_week_summary.csv
+...
 |   |
-|   `-- retail_sales.db
+|   `-- retail_sales.db (generated locally, not committed)
 |
 |-- python/
 |   |-- download_data.py
